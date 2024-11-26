@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Vídeos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Catálogo de Vídeos</h1>
+    </header>
+    <main>
+        <section class="video-gallery">
+            <article>
+                <img src="assets/images/video1-thumbnail.jpg" alt="Miniatura do vídeo 1">
+                <h2>Título do Vídeo 1</h2>
+                <p>Descrição breve do vídeo.</p>
+            </article>
+            <article>
+                <img src="assets/images/video2-thumbnail.jpg" alt="Miniatura do vídeo 2">
+                <h2>Título do Vídeo 2</h2>
+                <p>Descrição breve do vídeo.</p>
+            </article>
+            <!-- Adicione mais vídeos aqui -->
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido por [Seu Nome]</p>
+    </footer>
+</body>
+</html>
